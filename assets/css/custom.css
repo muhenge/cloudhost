@@ -5,4 +5,12 @@
   border-radius: 75px;
   font-size: 12px;
   /* text-align: center; */
+  -webkit-box-shadow: 2px 0px 0px 20px rgba(217,221,235,1);
+-moz-box-shadow: 2px 0px 0px 20px rgba(217,221,235,1);
+box-shadow: 2px 0px 0px 20px rgba(217,221,235,1);
+
+}
+
+.table-c {
+  border: 0 !important;
 }
